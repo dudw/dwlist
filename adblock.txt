@@ -11,6 +11,14 @@
 ||broker.l.qq.com/order/outer/*
 ||app.wumii.com/ext/*
 ||dt08.net/*
+||v*.jiathis.com/code/*.js
+||static.bshare.cn/*.js
+||.share.baidu.com/static/*
+||hm.baidu.com/*.js
+||tui.cnzz.net/*
+||cnzz.com/stat.*
+||users.51.la*
+
 
 !元素隐藏
 luo.bo##DIV.friendlink
