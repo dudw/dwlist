@@ -2,14 +2,15 @@
 !  Title: custom rule
 !  Last Modified:  Mon, 02 Dec 2013 02:23:55 +0800
 !  Homepage: http://git.oschina.net/dudw/adblock-rule
-!  coding: utf-8, expires: 5 days
+!  coding: utf-8, expires: 1 days
 !----END===
 
 
 !广告屏蔽
 ||mat1.gtimg.com/view/10years/*
 ||broker.l.qq.com/order/outer/*
-
+||app.wumii.com/ext/*
+||dt08.net/*
 
 !元素隐藏
 luo.bo##DIV.friendlink
