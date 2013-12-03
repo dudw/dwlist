@@ -20,6 +20,11 @@
 ||users.51.la*
 ||wanba.baidu.com^
 ||p2.youxi.bdimg.com^
+||huaban.com/js/pinmarklet.js
+||widget.wumii.cn^
+||widget.renren.com^
+||img.solidot.com.cn/0/845/*
+||static.baifendian.com^
 
 !元素隐藏======================
 luo.bo##DIV.friendlink
@@ -43,3 +48,10 @@ qq.com###Tool-Article-QQ
 
 tieba.baidu.com##.j_lzl_c_b_a.core_reply_content
 tieba.baidu.com###game_rank
+
+###DIV[width="300"][height="268"][style="height: 100%; width: 100%; border-width: 0px; position: relative; transition-property: none; transition-duration: 0s; transition-timing-function: ease-in-out;"]
+
+solidot.org###headads
+
+cnbeta.com##.tiny_bar
+cnbeta.com##.global_head[height:60px;]
