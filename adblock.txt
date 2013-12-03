@@ -1,0 +1,30 @@
+[Adblock Plus 2.1]
+!  Title: custom rule
+!  Last Modified:  Mon, 02 Dec 2013 02:23:55 +0800
+!  Homepage: http://git.oschina.net/dudw/adblock-rule
+!  coding: utf-8, expires: 5 days
+!----END===
+
+
+!广告屏蔽
+||mat1.gtimg.com/view/10years/*
+||broker.l.qq.com/order/outer/*
+
+
+!元素隐藏
+luo.bo##DIV.friendlink
+luo.bo##DIV.bdlikebutton-inner
+luo.bo##DIV[align="center"]
+luo.bo##.bdlikebutton.bdlikebutton-blue.bdlikebutton-medium.bdlikebutton-medium-blue
+luo.bo##.summary
+news.163.com##DIV.ep-area
+news.163.com##.sharecommend-wrap
+news.163.com###js-epTabDS
+qq.com##.wxlist
+qq.com##.followall_mod
+qq.com##DIV[style="padding-top:30px"]
+qq.com##.body-Top-Ad
+qq.com##.ad-text-box
+qq.com##.ad-box
+qq.com##.adbutton-Aritcle-QQ
+qq.com###Tool-Article-QQ
