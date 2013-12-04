@@ -35,9 +35,14 @@ luo.bo##.summary
 luo.bo##DIV.ad_single.ad_singlebtm
 luo.bo##.relatedrandom
 
-news.163.com##DIV.ep-area
-news.163.com##.sharecommend-wrap
-news.163.com###js-epTabDS
+163.com##DIV.ep-area
+163.com##.sharecommend-wrap
+163.com###js-epTabDS
+163.com##.top-gg-area
+163.com##.quickmark
+163.com##A[style="display: block; width: 100%; height: 100%; background-position: 0px 0px;"]
+
+mydrivers.com##[width="998"][height="90"][style="border: 1px solid #5A7EA0"]
 
 qq.com##.wxlist
 qq.com##.followall_mod
