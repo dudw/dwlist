@@ -59,6 +59,7 @@ qq.com###Tool-Article-QQ
 
 tieba.baidu.com##.j_lzl_c_b_a.core_reply_content
 tieba.baidu.com###game_rank
+tieba.baidu.com##.share_btn_wrapper
 
 solidot.org###headads
 
