@@ -28,6 +28,8 @@
 
 !元素隐藏======================
 
+guokr.com##.guokr-layer-beforelogin
+
 qidian.com###down_3g_20130621
 qidian.com##.game_tj
 
