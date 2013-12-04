@@ -32,6 +32,8 @@ luo.bo##DIV.bdlikebutton-inner
 luo.bo##DIV[align="center"]
 luo.bo##.bdlikebutton.bdlikebutton-blue.bdlikebutton-medium.bdlikebutton-medium-blue
 luo.bo##.summary
+luo.bo##DIV.ad_single.ad_singlebtm
+luo.bo##.relatedrandom
 
 news.163.com##DIV.ep-area
 news.163.com##.sharecommend-wrap
