@@ -40,7 +40,7 @@ luo.bo##.relatedrandom
 163.com###js-epTabDS
 163.com##.top-gg-area
 163.com##.quickmark
-163.com##A[style="display: block; width: 100%; height: 100%; background-position: 0px 0px;"]
+163.com##DIV[style="width: 110px; height: 147px; position: fixed; top: 460px; right: 3px; display: block; z-index: 100;"]
 
 mydrivers.com##[width="998"][height="90"][style="border: 1px solid #5A7EA0"]
 
