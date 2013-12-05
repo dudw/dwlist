@@ -10,6 +10,7 @@
 ||tb1.bdstatic.com/tb/cms/*
 ||mat1.gtimg.com/view/10years/*
 ||broker.l.qq.com/order/outer/*
+||qzs.qq.com/qzonestyle/qzone_app/qzone_open/*
 ||app.wumii.com/ext/*
 ||dt08.net/*
 ||v*.jiathis.com/code/*.js
@@ -25,7 +26,7 @@
 ||widget.wumii.cn^
 ||widget.renren.com^
 ||img.solidot.com.cn/0/845/*
-||static.baifendian.com^
+||static*.baifendian.com^
 ||game.qidian.com/game/game/*
 
 !元素隐藏======================
