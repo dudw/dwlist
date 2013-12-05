@@ -6,6 +6,7 @@
 !----END===
 
 !广告屏蔽======================
+||tb1.bdstatic.com/tb/cms/*
 ||mat1.gtimg.com/view/10years/*
 ||broker.l.qq.com/order/outer/*
 ||app.wumii.com/ext/*
