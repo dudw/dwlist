@@ -6,6 +6,10 @@
 !----END===
 
 !广告屏蔽======================
+||service.weibo.com/staticjs/*
+||img.feedsky.com/feed/*
+||feedstat.luobo8.com^
+||hits.sinajs.cn^
 ||baidu.com/*?v=tbs
 ||tb1.bdstatic.com/tb/cms/*
 ||mat1.gtimg.com/view/10years/*
