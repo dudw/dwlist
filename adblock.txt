@@ -6,6 +6,7 @@
 !----END===
 
 !广告屏蔽======================
+||baidu.com/*?v=tbs
 ||tb1.bdstatic.com/tb/cms/*
 ||mat1.gtimg.com/view/10years/*
 ||broker.l.qq.com/order/outer/*
@@ -63,11 +64,12 @@ qq.com###Tool-Article-QQ
 tieba.baidu.com##.j_lzl_c_b_a.core_reply_content
 tieba.baidu.com###game_rank
 tieba.baidu.com##.share_btn_wrapper
+tieba.baidu.com##.j_user_sign
 
 solidot.org###headads
 
 cnbeta.com##.tiny_bar
-cnbeta.com##.global_head[height:60px;]
+cnbeta.com##.left_art
 
 
 ###DIV[width="300"][height="268"][style="height: 100%; width: 100%; border-width: 0px; position: relative; transition-property: none; transition-duration: 0s; transition-timing-function: ease-in-out;"]
