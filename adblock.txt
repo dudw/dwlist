@@ -22,6 +22,10 @@
 ||wanba.baidu.com^
 ||p2.youxi.bdimg.com^
 
+||mat1.gtimg.com/news/news2013/imgs/*
+||wa.gtimg.com/201312/02/hdkqs_QC_*
+||mat1.gtimg.com/www/images/qq2012/erweimaWeishi.png
+||myqcloud.com^
 ||mat1.gtimg.com/view/10years/*
 ||v.t.qq.com/share/*
 ||broker.l.qq.com/order/outer/*
@@ -81,6 +85,10 @@ qq.com##.ad-text-box
 qq.com##.ad-box
 qq.com##.adbutton-Aritcle-QQ
 qq.com###Tool-Article-QQ
+qq.com##.absolute
+qq.com###erweima.erweima
+qq.com##.ad_1000_90
+qq.com##DIV[style="width:1000px;height:40px;margin:0 auto;position:relative"]
 
 tieba.baidu.com##.j_lzl_c_b_a.core_reply_content
 tieba.baidu.com###game_rank
