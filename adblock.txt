@@ -50,6 +50,7 @@
 ||static*.baifendian.com^
 ||game.qidian.com/game/game/*
 
+||focus.inhe.net/tuisong/*
 
 !元素隐藏======================
 
@@ -101,4 +102,4 @@ cnbeta.com##.tiny_bar
 cnbeta.com##.left_art
 
 
-###DIV[width="300"][height="268"][style="height: 100%; width: 100%; border-width: 0px; position: relative; transition-property: none; transition-duration: 0s; transition-timing-function: ease-in-out;"]
+###vxttuvno6hq
