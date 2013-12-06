@@ -1,39 +1,55 @@
 [Adblock Plus 2.1]
 !  Title: custom rule
-!  Last Modified:  12:47 2013年12月4日
+!  Last Modified:  13:09 2013年12月6日
 !  Homepage: http://git.oschina.net/dudw/adblock-rule
 !  coding: utf-8, expires: 1 days
 !----END===
 
 !广告屏蔽======================
-||service.weibo.com/staticjs/*
+
+||img*.taobaocdn.com/bao/uploaded/*
+
 ||img.feedsky.com/feed/*
 ||feedstat.luobo8.com^
+
+||service.weibo.com/staticjs/*
 ||hits.sinajs.cn^
+
 ||baidu.com/*?v=tbs
 ||tb1.bdstatic.com/tb/cms/*
+||.share.baidu.com/static/*
+||hm.baidu.com/*.js
+||wanba.baidu.com^
+||p2.youxi.bdimg.com^
+
 ||mat1.gtimg.com/view/10years/*
+||v.t.qq.com/share/*
 ||broker.l.qq.com/order/outer/*
 ||qzs.qq.com/qzonestyle/qzone_app/qzone_open/*
+
 ||app.wumii.com/ext/*
+||widget.wumii.cn^
+
 ||dt08.net/*
 ||v*.jiathis.com/code/*.js
 ||static.bshare.cn/*.js
-||.share.baidu.com/static/*
-||hm.baidu.com/*.js
+
 ||tui.cnzz.net/*
 ||cnzz.com/stat.*
 ||users.51.la*
-||wanba.baidu.com^
-||p2.youxi.bdimg.com^
+
+
 ||huaban.com/js/pinmarklet.js
-||widget.wumii.cn^
+
 ||widget.renren.com^
 ||img.solidot.com.cn/0/845/*
 ||static*.baifendian.com^
 ||game.qidian.com/game/game/*
 
+
 !元素隐藏======================
+
+ydss.cn###taobao.ad.ad-p4p-baobei
 
 guokr.com##.guokr-layer-beforelogin
 
