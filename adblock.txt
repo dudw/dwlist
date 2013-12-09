@@ -7,8 +7,6 @@
 
 !广告屏蔽======================
 
-||img*.taobaocdn.com/bao/uploaded/*
-
 ||img.feedsky.com/feed/*
 ||feedstat.luobo8.com^
 
