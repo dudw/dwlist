@@ -1,11 +1,14 @@
 [Adblock Plus 2.1]
 !  Title: custom rule
-!  Last Modified:  12:53 2013年12月11日
+!  Last Modified:  13:26 2014年1月8日
 !  Homepage: http://git.oschina.net/dudw/adblock-rule
 !  coding: utf-8, expires: 1 days
 !----END===
 
 !广告屏蔽======================
+
+||static.lecai.com/js/cooperator/*
+||tieba.lecai.com/page/zhuanti/baidu/*
 
 ||img.feedsky.com/feed/*
 ||feedstat.luobo8.com^
@@ -51,6 +54,8 @@
 ||focus.inhe.net/tuisong/*
 
 !元素隐藏======================
+
+tieba.baidu.com##IFRAME[width="738"][height="90"]
 
 ydss.cn###taobao.ad.ad-p4p-baobei
 
