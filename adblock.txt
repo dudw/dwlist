@@ -81,6 +81,7 @@ luo.bo##.relatedrandom
 
 mydrivers.com##[width="998"][height="90"][style="border: 1px solid #5A7EA0"]
 
+qq.com##.aboutmblog_mod
 qq.com##.wxlist
 qq.com##.followall_mod
 qq.com##DIV[style="padding-top:30px"]
