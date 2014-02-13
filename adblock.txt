@@ -6,6 +6,7 @@
 !----END===
 
 !广告屏蔽======================
+||ac.kiees.com/img/*
 
 ||static.lecai.com/js/cooperator/*
 ||tieba.lecai.com/page/zhuanti/baidu/*
@@ -54,6 +55,7 @@
 ||focus.inhe.net/tuisong/*
 
 !元素隐藏======================
+book.zongheng.com##.tc.lan
 
 tieba.baidu.com##IFRAME[width="738"][height="90"]
 
