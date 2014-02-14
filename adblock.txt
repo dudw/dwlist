@@ -1,6 +1,6 @@
 [Adblock Plus 2.1]
 !  Title: custom rule
-!  Last Modified:  17:01 2014年2月13日
+!  Last Modified:  12:31 2014年2月14日
 !  Homepage: http://git.oschina.net/dudw/adblock-rule
 !  coding: utf-8, expires: 1 days
 !----END===
@@ -55,6 +55,8 @@
 ||focus.inhe.net/tuisong/*
 
 !元素隐藏======================
+
+book.zongheng.com###sidekf
 book.zongheng.com##.tc.lan
 
 tieba.baidu.com##IFRAME[width="738"][height="90"]
