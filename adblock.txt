@@ -3,7 +3,6 @@
 ! Last Modified:  12:31 2014年2月14日
 ! Homepage: http://git.oschina.net/dudw/adblock-rule
 ! Version: 201402200220
-! Last modified: 20 Feb 2014 02:20 UTC
 ! Expires: 1 days (update frequency)
 !----END===
 
