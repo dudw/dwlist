@@ -1,12 +1,12 @@
 [Adblock Plus 2.1]
 ! Title: custom rule
-! Last Modified:  12:31 2014年2月14日
+! Last Modified:  15:43 2014年2月25日
 ! Homepage: http://git.oschina.net/dudw/adblock-rule
-! Version: 201402200220
 ! Expires: 1 days (update frequency)
 !----END===
 
 !广告屏蔽======================
+
 ||ac.kiees.com/img/*
 
 ||static.lecai.com/js/cooperator/*
@@ -99,6 +99,7 @@ qq.com##.absolute
 qq.com###erweima.erweima
 qq.com##.ad_1000_90
 qq.com##DIV[style="width:1000px;height:40px;margin:0 auto;position:relative"]
+mail.qq.com###plp_ad_container
 
 tieba.baidu.com##.j_lzl_c_b_a.core_reply_content
 tieba.baidu.com###game_rank
