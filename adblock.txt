@@ -57,6 +57,9 @@
 
 !元素隐藏======================
 
+yyets.com##.areaM1.boxPadd
+yyets.com##DIV[style="text-align:left;"]
+
 book.zongheng.com###sidekf
 book.zongheng.com##.tc.lan
 
@@ -100,6 +103,7 @@ qq.com###erweima.erweima
 qq.com##.ad_1000_90
 qq.com##DIV[style="width:1000px;height:40px;margin:0 auto;position:relative"]
 mail.qq.com###plp_ad_container
+qq.com##DIV[style="width:1000px;height:50px;overflow:hidden;margin:0 auto;"]
 
 tieba.baidu.com##.j_lzl_c_b_a.core_reply_content
 tieba.baidu.com###game_rank
@@ -111,7 +115,7 @@ solidot.org###headads
 
 cnbeta.com##.tiny_bar
 cnbeta.com##.left_art
-
+cnbeta.com##.toTop
 
 ##IFRAME[width="300"][height="268"]
 ##IFRAME[width="400"][height="318"]
