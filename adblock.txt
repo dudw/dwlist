@@ -110,7 +110,6 @@ qq.com##DIV[style="width:1000px;height:40px;margin:0 auto;position:relative"]
 mail.qq.com###plp_ad_container
 qq.com##DIV[style="width:1000px;height:50px;overflow:hidden;margin:0 auto;"]
 
-tieba.baidu.com##.j_lzl_c_b_a.core_reply_content
 tieba.baidu.com###game_rank
 tieba.baidu.com##.share_btn_wrapper
 tieba.baidu.com##.j_user_sign
