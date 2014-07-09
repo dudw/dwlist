@@ -24,8 +24,6 @@
 ||hits.sinajs.cn^
 
 ||baidu.com/*?v=tbs
-||tb1.bdstatic.com/tb/cms/*
-||.share.baidu.com/static/*
 ||hm.baidu.com/*.js
 ||wanba.baidu.com^
 ||p2.youxi.bdimg.com^
