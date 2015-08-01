@@ -1,6 +1,6 @@
 [Adblock Plus 2.1]
 ! Title: my rule
-! Last Modified:  10:46 2014年4月8日
+! Last Modified:  2015-8-2 02:04
 ! Homepage: http://git.oschina.net/dudw/adblock-rule
 ! Expires: 1 days
 !----END===
@@ -130,3 +130,27 @@ floating-frame.js|
 ||banerator.net^
 ||banerator.silvercdn.com^
 ||yadro.ru^
+||clkdeals.com^$popup
+||magicalled.com^
+||rdsa2012.com^$popup
+||ad.directrev.com^$popup
+||msecnd.net^
+||clkrev.com^
+||clktag.com^
+||eclkmpbn.com^
+||oclaserver.com^
+||onclickads.net^$popup
+||documentists.kiev.ua^
+||addthis.com^
+||google-analytics.com^
+|https://userscloud.com/fuckadblock.js
+||adk2x.com^
+||adpdx.com^
+||programresolver.net^
+||yu0123456.com^
+||qiyou.com^
+||bootcss.com^
+||eazyou.com^$popup
+||byhh.org/ads/*
+||googleads.g.doubleclick.net/pagead/*
+||img3.cache.netease.com/cnews/2014/8/29/*
