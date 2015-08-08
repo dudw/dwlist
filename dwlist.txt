@@ -1,9 +1,3 @@
-[Adblock Plus 2.0]
-! Title: my rule
-! Last Modified:  2015-8-2 02:04
-! Homepage: http://git.oschina.net/dudw/adblock-rule
-! Expires: 1 days
-!----END===
 
 !广告屏蔽======================
 
