@@ -1,5 +1,5 @@
-
-!广告屏蔽======================
+[Adblock Plus 2.0]
+!---
 
 |http://photo2.bababian.com/usr1327857/upload7/20150402/sj0sxy+GktDLwy3O5YVOPNLATHwhsadE3akDSTpeLrjqt5MA00iN5Rg==.jpg
 |http://photo2.bababian.com/usr1327857/upload7/20150402/sernMmZZzs2CUOYbSIJddBtYY8qh7HTQCJFhOf9dpM1B7QIW74_InnA==.jpg
