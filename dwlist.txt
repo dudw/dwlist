@@ -13,7 +13,7 @@
 !  支持通配符*和？
 !  -------------------------------------------------------------------------------------------
 
-@@solidot.org.feedsportal.com/c/
+@@||feedsportal.com/c/
 
 |http://photo2.bababian.com/usr1327857/upload7/20150402/sj0sxy+GktDLwy3O5YVOPNLATHwhsadE3akDSTpeLrjqt5MA00iN5Rg==.jpg
 |http://photo2.bababian.com/usr1327857/upload7/20150402/sernMmZZzs2CUOYbSIJddBtYY8qh7HTQCJFhOf9dpM1B7QIW74_InnA==.jpg
