@@ -14,7 +14,19 @@
 !  -------------------------------------------------------------------------------------------
 
 @@||feedsportal.com/c/
-||imgms.69shu.com
+
+! Fri Nov  4 00:11:34 2016 http://m.69shu.com/txt/24745/15797937
+m.69shu.com##img[src="http://imgms.69shu.com/res/images/21.gif"]
+
+! Fri Nov  4 00:12:04 2016 http://m.69shu.com/txt/24745/15797937
+m.69shu.com##.rSGCb
+
+! Fri Nov  4 00:14:19 2016 http://m.69shu.com/txt/24745/15797937
+||img.rqgsf.com/$image
+
+! Fri Nov  4 00:15:24 2016 http://m.69shu.com/txt/24745/15797937
+||imgms.69shu.com$image
+
 ||jiuzhilan.com
 |http://photo2.bababian.com/usr1327857/upload7/20150402/sj0sxy+GktDLwy3O5YVOPNLATHwhsadE3akDSTpeLrjqt5MA00iN5Rg==.jpg
 |http://photo2.bababian.com/usr1327857/upload7/20150402/sernMmZZzs2CUOYbSIJddBtYY8qh7HTQCJFhOf9dpM1B7QIW74_InnA==.jpg
