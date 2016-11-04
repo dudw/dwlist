@@ -15,17 +15,15 @@
 
 @@||feedsportal.com/c/
 
-! Fri Nov  4 00:11:34 2016 http://m.69shu.com/txt/24745/15797937
-m.69shu.com##img[src="http://imgms.69shu.com/res/images/21.gif"]
-
-! Fri Nov  4 00:12:04 2016 http://m.69shu.com/txt/24745/15797937
+m.69shu.com##header
 m.69shu.com##.rSGCb
-
-! Fri Nov  4 00:14:19 2016 http://m.69shu.com/txt/24745/15797937
 ||img.rqgsf.com/$image
-
-! Fri Nov  4 00:15:24 2016 http://m.69shu.com/txt/24745/15797937
 ||imgms.69shu.com$image
+||69shu.com/js/tagfh.js
+||69shu.com/js/bbb345.js
+||69shu.com/js/aadgty.js
+||69shu.com/js/judfgdm.js
+||69shu.com/js/sdfadf.js
 
 ||jiuzhilan.com
 |http://photo2.bababian.com/usr1327857/upload7/20150402/sj0sxy+GktDLwy3O5YVOPNLATHwhsadE3akDSTpeLrjqt5MA00iN5Rg==.jpg
