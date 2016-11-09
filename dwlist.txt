@@ -13,7 +13,8 @@
 !  支持通配符*和？
 !  -------------------------------------------------------------------------------------------
 
-@@||feedsportal.com/c/
+https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+https://googleads.g.doubleclick.net/pagead/ads*
 
 m.69shu.com##header
 m.69shu.com##.rSGCb
