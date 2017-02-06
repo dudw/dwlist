@@ -13,10 +13,6 @@
 !  支持通配符*和？
 !  -------------------------------------------------------------------------------------------
 
-
-http://siteapp.baidu.com/static/webappservice/uaredirect.js
-znsv.baidu.com
-youle55.com
 https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 https://googleads.g.doubleclick.net/pagead/ads*
 
