@@ -13,6 +13,13 @@
 !  支持通配符*和？
 !  -------------------------------------------------------------------------------------------
 
+|https://ws1.sinaimg.cn/large/61e74233ly1fcozxo9i94g20hs01ojt7.jpg
+|https://pic.yupoo.com/hexieshe_v/Gf9iUMYe/25f4S.png
+|https://i1.piimg.com/500954/a38c45e994cc6f0c.gif
+|https://ws1.sinaimg.cn/large/61e74233ly1fd0w9512j4g207s0dcmys.gif
+|https://ws1.sinaimg.cn/large/eb52fa4bgw1faf2h93ooug207s0dcgoc.gif
+|http://ww2.sinaimg.cn/large/eb52fa4bgw1faf2ha4it6g20hs02i76c.gif
+
 https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 https://googleads.g.doubleclick.net/pagead/ads*
 
