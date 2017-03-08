@@ -13,6 +13,11 @@
 !  支持通配符*和？
 !  -------------------------------------------------------------------------------------------
 
+|http://icons.mydrivers.com/news/2017/dangbei-580.gif
+|http://img1.mydrivers.com/Img/forum/bbs_title195013400.jpg
+|http://icons.mydrivers.com/news/2017/pc_hsb_677_210.gif
+|https://gw.alicdn.com/tps/TB1guRfPVXXXXa0XVXXXXXXXXXX-810-100.jpg
+
 |https://ws1.sinaimg.cn/large/61e74233ly1fcozxo9i94g20hs01ojt7.jpg
 |https://pic.yupoo.com/hexieshe_v/Gf9iUMYe/25f4S.png
 |https://i1.piimg.com/500954/a38c45e994cc6f0c.gif
