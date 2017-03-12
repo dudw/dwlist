@@ -13,6 +13,36 @@
 !  支持通配符*和？
 !  -------------------------------------------------------------------------------------------
 
+cnbeta.com##.article-global
+inoreader.com##.sinner_under_footer
+news.mydrivers.com##.adggg1
+69shu.com###txtright
+zdfans.com##.adsbygoogle
+biquge.com.tw###cs_left_couplet
+biquge.com.tw###cs_right_couplet
+biquge.com.tw###cs_right_bottom
+biquge.com.tw##TABLE[style="width:100%; text-align:center;"]
+
+||gw.alicdn.com/tps/*
+|https://www.inoreader.com/adv/*
+|http://img1.mydrivers.com/Img/forum/bbs_title*
+|https://ww1.sinaimg.cn/large/695d00bbgw1ecriw9ujfoj20g90au75g.gif
+|https://ww1.sinaimg.cn/mw690/91e9ebb3gw1faa98sl0onj20by0by0tk.jpg
+||59519.com/ad/*
+||52tux.com/friend/images/channel/*
+||a.alimama.cn^
+||icons.mydrivers.com/news/2017/*
+|https://pic1.zhimg.com/v2-1e64840c3325db1f9a0ddc456eb5fb84_294x245|adx4.png
+||static.u148.net/images/float-wx.gif
+||fd7c.com^
+||k429fma.com^
+||twcczhu.com^
+||youle55.com^
+||js.users.51.la^
+||googleads.g.doubleclick.net/pagead/*
+||pos.baidu.com^
+
+
 |http://icons.mydrivers.com/news/2017/dangbei-580.gif
 |http://img1.mydrivers.com/Img/forum/bbs_title*.jpg
 |http://icons.mydrivers.com/news/2017/pc_hsb_677_210.gif
