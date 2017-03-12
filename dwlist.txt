@@ -13,6 +13,9 @@
 !  支持通配符*和？
 !  -------------------------------------------------------------------------------------------
 
+news.mydrivers.com##DIV[style="padding-bottom:7px;padding-top:7px;"]
+news.mydrivers.com###weixin
+
 cnbeta.com##.article-global
 inoreader.com##.sinner_under_footer
 news.mydrivers.com##.adggg1
