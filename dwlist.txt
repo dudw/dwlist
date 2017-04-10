@@ -180,7 +180,6 @@ floating-frame.js|
 ||adk2x.com^
 ||adpdx.com^
 ||programresolver.net^
-||bootcss.com^
 ||eazyou.com^$popup
 ||byhh.org/ads/*
 ||img3.cache.netease.com/cnews/2014/8/29/*
