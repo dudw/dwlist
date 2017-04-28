@@ -13,6 +13,35 @@
 !  支持通配符*和？
 !  -------------------------------------------------------------------------------------------
 
+zdfans.com##IFRAME[width="300"][height="250"]
+cnbeta.com##.tac
+kickasss.to##DIV[style="background:grey; filter:alpha(opacity=60); -moz-opacity:0.6; -khtml-opacity:0.6; opacity:0.6; position:fixed; left:0; top:0; bottom:0; right:0; z-index:1001; display: block;"]
+kickasss.to##DIV[style="display: block; margin-top: -130px; -webkit-animation:showSweetAlert 0.3s; -moz-animation:showSweetAlert 0.3s; animation:showSweetAlert 0.3s; background:white; font-family:'Open Sans', sans-serif; width:478px; padding:17px; border-radius:5px; text-align:center; position:fixed; left:50%; top:50%; margin-left:-256px; overflow:hidden; z-index:1500;"]
+inoreader.com##.sinner_under_footer
+inoreader.com###sinner_container
+biquge.com.tw###cs_right_couplet
+biquge.com.tw###cs_left_couplet
+biquge.com.tw###cs_right_bottom
+biquge.com.tw##TABLE[style="width:100%; text-align:center;"]
+
+
+||hm.baidu.com^
+||cpro.baidustatic.com^
+||cbjs.baidu.com^
+|https://www.inoreader.com/adv/*
+|http://img1.mydrivers.com/Img/forum/bbs_title195013400.jpg
+||59519.com/ad/*
+|https://ws1.sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i.gif
+|https://ws1.sinaimg.cn/large/eb52fa4bgw1faf2ha4it6g20hs02i76c.gif
+||css88.b0.upaiyun.com/css88/2017/03/*
+||jianxun.io/gg/201607/css88/*
+|http://11.mydrivers.com/common/20170426193905.jpg
+||ws1.sinaimg.cn/large/61e74233ly1fcozxo9i94g20hs01ojt7.jpg
+||i1.piimg.com/500954/a38c45e994cc6f0c.gif
+||i1.piimg.com/500954/356093297033acf8.gif
+||ww1.sinaimg.cn/large/61e74233ly1feraa4fc7qg207s0dcwjb.gif
+||ws1.sinaimg.cn/large/61e74233ly1fdmns6d86oj207s0bojwv.jpg
+||img.fd7c.com/html/click/*
 
 css88.b0.upaiyun.com/css88/2017/03/tanzhou-banner.jpg
 
