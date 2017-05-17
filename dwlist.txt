@@ -13,6 +13,15 @@
 !  支持通配符*和？
 !  -------------------------------------------------------------------------------------------
 
+hrtsea.com##.widget.widget_ui_ads
+
+||i1.piimg.com/500954/a38c45e994cc6f0c.gif
+||ws1.sinaimg.cn/large/61e74233ly1ff3x1psigrg207s0dtnpd.gif
+||ws1.sinaimg.cn/large/61e74233ly1feraa4fc7qg207s0dcwjb.gif
+||ws1.sinaimg.cn/large/61e74233ly1fcozxo9i94g20hs01ojt7.jpg
+||59519.com/ad/*
+||img02.taobaocdn.com/bao/uploaded/i2/1869287061/TB2vv5Wd9iJ.eBjSspoXXcpMFXa_!!1869287061.jpg_310x310.jpg
+
 zdfans.com##IFRAME[width="300"][height="250"]
 cnbeta.com##.tac
 kickasss.to##DIV[style="background:grey; filter:alpha(opacity=60); -moz-opacity:0.6; -khtml-opacity:0.6; opacity:0.6; position:fixed; left:0; top:0; bottom:0; right:0; z-index:1001; display: block;"]
