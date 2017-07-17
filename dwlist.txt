@@ -17,9 +17,10 @@
 16xx8.com##.adsbygoogle
 114ps.com##.banad
 114ps.com##.mtop8
-
-
-
+||163.wrating.com^
+||ursdoccdn.nosdn.127.net^
+||img3.126.net^
+||163.com/special/00774IVV/hot_pop_js2017.js?*
 ||ws1.sinaimg.cn/large/61e74233ly1fcozxo9i94g20hs01ojt7.jpg
 ||i1.piimg.com/500954/a38c45e994cc6f0c.gif
 ||i.imgur.com/vXA6sTc.gif
