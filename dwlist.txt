@@ -13,6 +13,31 @@
 !  支持通配符*和？
 !  -------------------------------------------------------------------------------------------
 
+
+16xx8.com##.adsbygoogle
+114ps.com##.banad
+114ps.com##.mtop8
+
+
+
+||ws1.sinaimg.cn/large/61e74233ly1fcozxo9i94g20hs01ojt7.jpg
+||i1.piimg.com/500954/a38c45e994cc6f0c.gif
+||i.imgur.com/vXA6sTc.gif
+||ws1.sinaimg.cn/large/61e74233ly1feraa4fc7qg207s0dcwjb.gif
+||ws1.sinaimg.cn/large/61e74233ly1feraa4f8fkg20hs02iq3d.gif
+||adman.henghost.com^
+||59519.com/ad/*
+||16xx8.com/1diy/imges/psvideo.gif
+|http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2049/04/tuijianyuedumoban0628.jpg
+||a.alimama.cn^
+||ad.doubleclick.net^
+||pagead2.googlesyndication.com^
+||tpc.googlesyndication.com^
+||google-analytics.com^
+||cnbeta.com/js/pages/inteladv.js
+||g.163.com^
+
+
 hrtsea.com##.widget.widget_ui_ads
 
 ||i1.piimg.com/500954/a38c45e994cc6f0c.gif
