@@ -14,6 +14,25 @@
 !  -------------------------------------------------------------------------------------------
 
 
+||59519.com/ad/*
+|http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2049/04/tuijianyuedumoban0818.jpg
+||fd7c.com^
+||search.maven.org/ajaxsolr/images/SON_banners_300x60v6.jpg
+||ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2017/08/tuijianyuedumoban0821-1.jpg
+||2mdn.net^
+||vt.ipinyou.com^
+||googleads.g.doubleclick.net/pagead/*
+|https://cdn.qqj.net/files/2017/05/27/b5e3d4ebe760557c231646197941f914.jpg
+||code.zantainet.com^
+||xiongyin.com^
+cnbeta.com##.cbv
+biquzi.com###cs_right_couplet
+biquzi.com###cs_left_couplet
+biquzi.com###cs_right_bottom
+biquzi.com##TABLE[style="width:100%; text-align:center;"]
+liaoxuefeng.com##.x-sponsor-a.uk-clearfix
+
+
 16xx8.com##.adsbygoogle
 114ps.com##.banad
 114ps.com##.mtop8
