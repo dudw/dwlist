@@ -13,6 +13,25 @@
 !  支持通配符*和？
 !  -------------------------------------------------------------------------------------------
 
+||xiongyin.com^
+||zantainet.com^
+||twh5.com^
+||c.t98u8f.com^
+||v4dwkcv.com^
+||twcczhu.com^
+||youle55.com^
+||mmstat.com^
+||fd7c.com^
+||f2zd.com^
+|http://images.ifanr.cn/wp-content/uploads/2017/10/tuijianyuedumoban1008.jpg
+|http://cbjs.baidu.com/js/m.js
+||cir-smart.baidu.com^
+||pingjs.qq.com/h5/stats.js?*
+||zz.bdstatic.com/linksubmit/push.js
+|http://img.solidot.org/0/446/liiLIZF8Uh6yM.jpg
+news.mydrivers.com###recommend
+liaoxuefeng.com##.x-sponsor-a.uk-clearfix
+liaoxuefeng.com##.x-sponsor-b.uk-clearfix
 
 ||59519.com/ad/*
 |http://ifanr-cdn.b0.upaiyun.com/wp-content/uploads/2049/04/tuijianyuedumoban0818.jpg
