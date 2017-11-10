@@ -13,6 +13,7 @@
 !  支持通配符*和？
 !  -------------------------------------------------------------------------------------------
 
+https://static.cnbetacdn.com/assets/adv/*.js
 |http://dt.mydrivers.com/action/newsscoreoption.aspx
 
 |http://g.163.com/jr
